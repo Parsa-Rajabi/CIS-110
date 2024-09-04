@@ -2,16 +2,15 @@
 
 # Course Syllabus
 
-**CIS 145: Web Publishing (3)**
+**BUS 160/CIS 110: Computerized Business Applications and MIS (3)**
 
 ---
-**Spring 2024**
+**Fall 2024**
 
-**Section ON1 [CRN 50025]**
-- Mondays 8:30-11:20 AM - via Zoom
+**Section BUS 160 ON1 [CRN 90141]**
+**Section CIS 110 AB6 [CRN 90272]**
+**Section BUS 160 AB6 [CRN 90139]**
 
-**Section ON2 [CRN 50026]**
-- Thursdays 8:30-11:20 AM - via Zoom
 
 ---
 ## Course Instructor
@@ -22,91 +21,115 @@
 
 Note: When emailing, please include the following in your email:
 
-- Subject: `[CIS 145 - ON (1 or 2)] - Your Subject`
+- Subject: `[CIS 110/BUS 160 + Section] - Your Subject`
 - In the body, include your full name, student ID, and your inquiry.
 
-## Lab Monitor
+## Lab Monitors
 
 **Name:** Navneet Jhangra
 
 **Email:** navneet.jhangra [at] student.ufv [dot] ca
 
+**Name:** Aastha Anand
+
+**Email:** Aastha.Anand [at] student.ufv [dot] ca
+
+### Weekly Module Tests (Flipped Classroom) 
+
+This course will be taught using a pedagogical technique known as the Flipped/Hybrid classroom.  This approach makes the most of our precious class time by eliminating the standard lecturing model, where course material is introduced to the students during class, usually via a lengthy PowerPoint presentation.  In our Flipped/Hybrid classroom, you will come to class having already completed several readings where you will be introduced to the course material.  During class, you will apply your understanding of these core concepts through carefully-chosen problems and activities, which will enable you to solidify your knowledge.  
+
+Flipped/Hybrid classrooms require much more focus and preparation time, for both the instructor and the students.  After all, it is much easier for the instructor to read a set of pre-prepared slides and for the students to passively observe and listen.  But in our class, we will devote our class time to the computational thinking process: resolving obstacles, developing conceptual understanding, communicating solutions supported by evidence, and creating efficient algorithms that solve our problem.  Through this process, you will better develop your confidence, creativity, and critical-thinking skills, preparing you to become a successful problem-solver in the real world.
+
+In order for this course to be a meaningful learning experience, you will need to come to each class well-prepared, with all assigned modules and videos complete.  This emphasis on pre-class work is the reason why our class meets every other week. If you do not complete the pre-class work, you will have a hard time following the in-class activities, which will make it that much harder for you to successfully complete the course deliverables.
+
+I have designed this course so that you will be spending approximately 9 to 12 hours per week on all activities relating to this course (i.e., pre-class work, attending class, all assessments).
+
+## Classroom Etiquette
+
+The classroom principles that we will follow in the classroom are transparency, equity and inclusion, participation, active dialog, and constructive critique. Students are expected to support each other, learn from each other, and help each other grow. Students have the responsibility to conduct themselves in ways that will help them learn, yet that will not disrupt other students’ learning. While each student will be working closely with their team members, you are also expected to engage with your classmates in a respectful, kind, and helpful manner.
+
+In the class, we encourage asking questions, sharing ideas, and engaging in discussions related to the class topics. Sometimes discussions may steer away from the course content, and the course instructor will reserve the right to re-direct it back on track.
+
+Giving and receiving feedback is one of the core activities in this class. When giving and receiving feedback, it is important to keep in mind that we give feedback because we want all students to succeed. Our feedback will highlight parts that work well but also point out aspects that can be improved. The feedback should not be taken personally or seen as an attack on students' knowledge or capabilities. Thus, we will learn a craft of constructive feedback and practice it in the class regularly.
+
+
 ## Course Description
 
-> In this course, students will design, organize, publish, and maintain a basic website using HTML. They will also learn scripting, how to apply multimedia plug-ins, and cascading style sheets. This course is intended for students with no prior knowledge of HTML.
->
-> Prerequisite(s): Competent in computer skills - see ‘CIS Required Skills’ section on the CIS department website for details.
+The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescriptions) of this course is:
 
-You will find all the important information on the [UFV Academic Calendar](https://www.ufv.ca/calendar/current/CourseDescriptions/CIS.htm#:~:text=for%20further%20credit.-,CIS,-145).
+> This course covers understanding, application, and advanced skill development in spreadsheets, databases, presentation software, and word-processing, integrated with an introduction to Management Information Systems (MIS). Emphasis is on problem solving and integration of software applications within a MIS context.
+>
+> Note: This course is offered as CIS 110 and BUS 160. Students may take only one of these for credit.
+>
+> Prerequisite(s): None. It is recommended that students are competent in computer skills
+> Corequisite(s): None.
+> Pre- or corequisite(s): None.
 
 ## Learning Outcomes
 
 The Learning outcomes for this course are:
 
-1. Identify and describe the issues that affect operational aspects of an Internet site such as security, data transmission rates, virtual hosting
-2. Demonstrate an understanding of the composition and function of the Internet, especially www, ftp, telnet and email and the protocols associated with them
-3. Apply proper website design principles
-4. Create HTML websites using a text editor
-5. Publish websites
-6. Apply the following features to websites: images, lists, tables, frames, image maps, forms, multimedia
-7. Apply Cascading Style Sheets to websites
-8. Compare and contrast various image and multimedia file formats
-9. Manipulate multimedia and other files for optimal delivery through the Internet
-10. Apply JavaScript to websites
+1. Demonstrate the sophisticated skills in word processing, spreadsheet and database application, and presentation creation.
+2. Apply professional principles and practices (i.e., privacy, ethics, equity) to data management and sharing.
+3. Use file management systems for data organization, information retrieval, backup, and recovery.
+4. Incorporate software applications to effectively address and resolve business challenges, with a specific focus on Indigenous contexts and data, such as those related to Indigenous population dynamics, education, and facility development.
 
-## Textbook Material
 
-Web Development and Design Foundations with HTML5 - 10th edition
-by Terry Felke-Morris
+## Required Textbook Material
 
-Publisher: Pearson
-ISBN: 9780135919941
+```{warning}
+You will not be able to complete this course with another section's textbooks as they differ. Make sure to select the correct course/section  and see "Parsa Rajabi" as instructor.
+```
+MIS 11 (11th Edition) by Hossein Bidgoli 
 
-[Link](https://www.pearson.com/en-us/subject-catalog/p/web-development-and-design-foundations-with-html5/P200000003268/9780136662402)
+![](images/CIS110-textbook.png)
+
 
 ## Course Evaluation
 
-|              Item               | Weight |
-| :-----------------------------: | :----: |
-| Participation & Professionalism |   7%   |
-|          Learning Logs          |   8%   |
-|           Assignments           |  15%   |
-|              Labs               |  10%   |
-|             Quiz #1             |  10%   |
-|             Quiz #2             |  15%   |
-|         Final Component         |  35%   |
-|             *Total*             | *100%* |
+|      **Item**       | **Weight** |
+| :-----------------: | :--------: |
+| Weekly Module Tests |    15%     |
+|     Assignments     |    25%     |
+|       Quizzes       |    30%     |
+|   Final Component   |    30%     |
 
 ### Letter Grade Conversion
 ![](images/grade_letters.png)
 
 ## Passing Criteria
 
-Students must attain an overall passing grade (50% or higher) on the weighted average of quizzes and exams in the course in order to obtain a clear pass (C- or better).
+Students must attain an overall passing grade (50% or higher) on the weighted average of quizzes and final component in the course in order to obtain a clear pass (C- or better).
 
 ## Course and Policies
 
 ### Late Policy and Missed Items
 
-Labs, assignments and learning logs can be submitted up to 24 hours after the due date with a `25% penalty`. After 24 hours, the submission will not be accepted and a score of zero will be recorded. 
+Course elements such as assignments and module tests can be submitted up to 24 hours after the due date with a 25% penalty. After 24 hours, the submission will not be accepted and a score of zero will be assigned.
 
-Quizzes and exams are to be completed on the specified date and time. A `1% penalty` will be applied for **every minute late**. Missed quizzes and exams will result in a score of zero.
+Make-up assessments (including assignments, exams and quizzes) will not be given. Sometimes life gets in the way of schedules. Sickness or other unplanned or extraordinary events happen and will be dealt with individually. It is your responsibility to ensure your situation is known to the instructor as soon as reasonably possible. You are accountable for being heard, which means you need to ensure that the instructor heard you.
+ 
+While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the Lab Monitor or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
-Exceptions will be considered on an individual basis, subject to the approval of the instructor and supported by legitimate documentation. 
+In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verfied documentation. Refer to accommodations and concessions section below for more details.
 
 ### Remarking Policy
 
-If you feel a course item has been significantly incorrectly assessed you may request a re-marking. However, before you do make such request, please follow the steps below:
+As a teaching team, we strive to provide fair and accurate assessments of your work while also providing as much feedback. We encourage you to review the feedback and spend your time/energy where it serves you the most which will be learning from past mistakes and self-improvement. While you reserve your right to ask for a re-grade, we find debating grades an incredible drain on course staff time and energy and prevents us from serving students well and focusing on most important aspects of the course. 
 
-1. Review the marking rubric and ensure you understand the marking scheme.
-2. Review the marking comments and ensure you understand the feedback.
+If you feel a course item has been incorrectly assessed you may request that the item be remarked. However, before making a remarking request, please complete the following steps:
+
+1. Review the marking rubric and feedback/comments (if applicable).
+2. Schedule a meeting with the instructor to discuss the feedback and marking.
 3. If you still feel the marking is incorrect, you may request a re-marking.
 
 #### Request a Remarking
 
-Requests must include a written case for the re-marking and be submitted to the course instructor within 5 business days from receiving the mark (unless specified otherwise).
+Requests must include a written letter for the re-marking and be submitted to the course instructor within 5 business days from receiving the mark or a deadline specified by the instructor, whichever comes first. The request must be signed and submitted via email. 
 
-The item will be re-marked in their entirety and may result in a higher, unchanged, or lower mark overall which will be final. You should exercise caution in submitting a remark request purely on the hope of getting a minor grade bump as this often does not work out the way a student hopes for.
+Course grades are considered final on a rolling basis (e.g. as we progress through the semester). After the regrading request deadline (e.g., 5 business days or deadline set by instructor), grades will be considered final and no further requests will be accepted. Students are encouraged to review their grades and ask questions within the specified time frame. Inquiries after the deadline will not be considered.
+
+The re-marking request will be reviewed by the teaching team and if accepted, the item will be re-marked in its entirety by both the course instructor. This may result in a higher, unchanged, or lower mark overall which will be final. 
 
 ### Academic Integrity
 
@@ -148,7 +171,3 @@ If you plan to use a tutor/editor, be aware that any work that you submit must a
 - A private tutoring company coaches you on how to complete an assignment
 - You buy / sell/ swap assignment questions and answers on social media platforms like WeChat, Whatsapp, Facebook, etc.
 - Your use an editor (paid or unpaid) without permission of the instructor to revise, correct or alter your work
-
-##### About
-
-This site was built using [Docsify Open MultiCourse Starter Kit](https://paulhibbitts.github.io/cmpt-363/#/222/home) which is designed and built by Paul Hibbitts (Email: [paul@hibbittsdesign.org](mailto:paul@hibbittsdesign.org), Twitter: [@hibbittsdesign](https://twitter.com/hibbittsdesign)).
