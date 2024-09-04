@@ -7,9 +7,9 @@
 ---
 **Fall 2024**
 
-**Section BUS 160 ON1 [CRN 90141]**
-**Section CIS 110 AB6 [CRN 90272]**
-**Section BUS 160 AB6 [CRN 90139]**
+- **Section BUS 160 ON1 [CRN 90141]**
+- **Section CIS 110 AB6 [CRN 90272]**
+- **Section BUS 160 AB6 [CRN 90139]**
 
 ---
 ## Course Instructor
