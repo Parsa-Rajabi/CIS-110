@@ -11,13 +11,14 @@
 **Section CIS 110 AB6 [CRN 90272]**
 **Section BUS 160 AB6 [CRN 90139]**
 
-
 ---
 ## Course Instructor
 
 **Name:** Parsa Rajabi
 
 **Email:** parsa.rajabi [at] ufv [dot] ca
+
+**All inquiries should be sent to the instructor via email. Blackboard Messages are NOT monitored/answered**
 
 Note: When emailing, please include the following in your email:
 
