@@ -24,6 +24,15 @@ Note: When emailing, please include the following in your email:
 - Subject: `[CIS 110/BUS 160 + Section] - Your Subject`
 - In the body, include your full name, student ID, and your inquiry.
 
+### Professionalism 
+
+Students are expected to maintain a high level of professionalism in all course activities and communication with the instructor and peers. This includes proper email etiquette, respectful communication in class, and adherence to deadlines. Before sending an email, please ensure that you have included a subject line, a greeting, a clear message, and a closing. Using AI/ChatGPT to generate emails is not recommended and such emails will be returned for revision.
+
+Before sending an email, make sure to review this article on [How to email your profs effectively](https://students.ubc.ca/ubclife/inbox-1-email-profs-effectively) for tips on how to effectively communicate with your instructor. Emails that do not follow these guidelines will be returned to the sender for revision.
+
+Repeated unprofessional behavior will result in grade deduction from your final grade, with each violation resulting in a 1% deduction. Students will be notified of possible deductions after the first warning.
+
+
 ## Lab Monitors
 
 **Name:** Navneet Jhangra
@@ -51,7 +60,6 @@ The classroom principles that we will follow in the classroom are transparency, 
 In the class, we encourage asking questions, sharing ideas, and engaging in discussions related to the class topics. Sometimes discussions may steer away from the course content, and the course instructor will reserve the right to re-direct it back on track.
 
 Giving and receiving feedback is one of the core activities in this class. When giving and receiving feedback, it is important to keep in mind that we give feedback because we want all students to succeed. Our feedback will highlight parts that work well but also point out aspects that can be improved. The feedback should not be taken personally or seen as an attack on students' knowledge or capabilities. Thus, we will learn a craft of constructive feedback and practice it in the class regularly.
-
 
 ## Course Description
 
@@ -93,6 +101,8 @@ MIS 11 (11th Edition) by Hossein Bidgoli
 |     Assignments     |    25%     |
 |       Quizzes       |    30%     |
 |   Final Component   |    30%     |
+
+
 
 ### Letter Grade Conversion
 ![](images/grade_letters.png)
