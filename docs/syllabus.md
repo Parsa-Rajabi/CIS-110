@@ -33,7 +33,6 @@ Before sending an email, make sure to review this article on [How to email your 
 
 Repeated unprofessional behavior will result in grade deduction from your final grade, with each violation resulting in a 1% deduction. Students will be notified of possible deductions after the first warning.
 
-
 ## Lab Monitors
 
 **Name:** Navneet Jhangra
