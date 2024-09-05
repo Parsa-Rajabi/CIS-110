@@ -8,8 +8,11 @@
 **Fall 2024**
 
 - **Section BUS 160 ON1 [CRN 90141]**
+  - Thursdays, 8:30-11:20, via Zoom
 - **Section CIS 110 AB6 [CRN 90272]**
+  - Thursdays, 11:30-14:20, [hybrid](schedule.md) in Building D, Room 223 (Abbotsford Campus)
 - **Section BUS 160 AB6 [CRN 90139]**
+  - Thursdays, 16:00-18:50, [hybrid](schedule.md) in Building D, Room 204 (Abbotsford Campus)
 
 ---
 ## Course Instructor
@@ -35,9 +38,12 @@ Repeated unprofessional behavior will result in grade deduction from your final 
 
 ## Lab Monitors
 
+### Sections BUS 160 ON1 + BUS 160 AB6
 **Name:** Navneet Jhangra
 
 **Email:** navneet.jhangra [at] student.ufv [dot] ca
+
+### Section CIS 110 AB6
 
 **Name:** Aastha Anand
 
@@ -45,7 +51,7 @@ Repeated unprofessional behavior will result in grade deduction from your final 
 
 ### Weekly Module Tests (Flipped Classroom) 
 
-This course will be taught using a pedagogical technique known as the Flipped/Hybrid classroom.  This approach makes the most of our precious class time by eliminating the standard lecturing model, where course material is introduced to the students during class, usually via a lengthy PowerPoint presentation.  In our Flipped/Hybrid classroom, you will come to class having already completed several readings where you will be introduced to the course material.  During class, you will apply your understanding of these core concepts through carefully-chosen problems and activities, which will enable you to solidify your knowledge.  
+This course will be taught using a pedagogical technique known as the Flipped/Hybrid classroom.  This approach makes the most of our precious class time by eliminating the standard lecturing model, where course material is introduced to the students during class, usually via a lengthy PowerPoint presentation.  In our Flipped/Hybrid classroom, you will come to class having already completed several module tests (and videos) where you will be introduced to the course material.  During class, you will apply your understanding of these core concepts through carefully-chosen problems and activities, which will enable you to solidify your knowledge.  
 
 Flipped/Hybrid classrooms require much more focus and preparation time, for both the instructor and the students.  After all, it is much easier for the instructor to read a set of pre-prepared slides and for the students to passively observe and listen.  But in our class, we will devote our class time to the computational thinking process: resolving obstacles, developing conceptual understanding, communicating solutions supported by evidence, and creating efficient algorithms that solve our problem.  Through this process, you will better develop your confidence, creativity, and critical-thinking skills, preparing you to become a successful problem-solver in the real world.
 
