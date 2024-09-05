@@ -85,9 +85,9 @@ The Learning outcomes for this course are:
 
 ## Required Textbook Material
 
-```{warning}
-You will not be able to complete this course with another section's textbooks as they differ. Make sure to select the correct course/section  and see "Parsa Rajabi" as instructor.
-```
+> [!WARNING]
+> You will not be able to complete this course with another section's textbooks as they differ. Make sure to select the correct course/section  and see "Parsa Rajabi" as instructor.
+
 MIS 11 (11th Edition) by Hossein Bidgoli 
 
 ![](images/CIS110-textbook.png)
