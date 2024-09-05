@@ -15,7 +15,7 @@ All course slides are password protected. Visit course info page on Blackboard (
 
 | **Wk#** | **Date** | **Modality for Section AB6** |         **Topic**          | **Course Notes** | **Videos** |
 | :-----: | :------: | :--------------------------: | :------------------------: | :--------------: | :--------: |
-|    1    |  Sept 5  |          In-person           |  Syllabus & Introductions  |                  |            |
+|    1    |  Sept 5  |          In-person           |  Syllabus & Introductions  |     [Slides](https://jstrieb.github.io/link-lock/#eyJ2IjoiMC4wLjEiLCJlIjoiNzl2VEVUdFVnTjRyVTFiV0lMbE1aY1FjRnBDd0lOblRmbHo5a3o4UWIzRTVxQWZ3V1NjQnBGZXhFVnhXSkVEMjBDSm9jYkVFWUdJcnFHQjZ2eXFMeVYvZTFQdFFteldIRW1id1VwQ05wV2E3YWlLTUZZa3NUMHQyRFBKRC9NRkJPcVhmYmMwYXNTa2FsN2x4VklUbVQzMDBBM0U9IiwicyI6ImoyYURzc3VrZXdJMHl3ai9WUmJPeWc9PSIsImkiOiJ4QStsbWNaZjVhcGEzUnFjIn0=)             |            |
 |    2    | Sept 12  |         Asynchronous         |    MS Word Chpaters 1-3    |                  |            |
 |    3    | Sept 19  |          In-person           |    MS Word Chpaters 4-7    |                  |            |
 |    4    | Sept 26  |         Asynchronous         |   MS Word Chpaters 8-11    |                  |            |
