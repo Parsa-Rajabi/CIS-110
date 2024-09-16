@@ -21,6 +21,10 @@
 
 **Email:** parsa.rajabi [at] ufv [dot] ca
 
+**Office Hours:** Thursdays, 14:30-15:30, Building C, Room 2456 (Abbotsford Campus) + via Zoom
+
+Zoom appointments can be made by email request (a minimum of 24 hours in advance). Request for appointments with less than 24 hours notice may not be accommodated.
+
 **All inquiries should be sent to the instructor via email. Blackboard Messages are NOT monitored/answered**
 
 Note: When emailing, please include the following in your email:
@@ -115,7 +119,7 @@ MIS 11 (11th Edition) by Hossein Bidgoli
 
 ## Passing Criteria
 
-Students must attain an overall passing grade (50% or higher) on the weighted average of quizzes and final component in the course in order to obtain a clear pass (C- or better).
+Students must attain an overall passing grade (50% or higher) on the weighted average of quizzes and final component in the course to obtain a clear pass (C- or better).
 
 ## Course and Policies
 
@@ -127,7 +131,7 @@ Make-up assessments (including assignments, exams and quizzes) will not be given
  
 While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the Lab Monitor or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
-In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verfied documentation. Refer to accommodations and concessions section below for more details.
+In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. Refer to accommodations and concessions section below for more details.
 
 ### Remarking Policy
 
@@ -187,3 +191,6 @@ If you plan to use a tutor/editor, be aware that any work that you submit must a
 - A private tutoring company coaches you on how to complete an assignment
 - You buy / sell/ swap assignment questions and answers on social media platforms like WeChat, Whatsapp, Facebook, etc.
 - Your use an editor (paid or unpaid) without permission of the instructor to revise, correct or alter your work
+
+## First Class Attendance
+As per UFV Policy 62: Students must attend the first day of class and complete the activity as assigned by the instructor in order to keep their seat in the course.  Failure to do this may result in an automatic withdrawal and students on the registered class waitlist who are in attendance will be given your spot. If you are unable to attend the first day of class, please contact the instructor in advance to make alternate arrangements.
