@@ -1,5 +1,6 @@
 - [Syllabus](syllabus.md)
 - [Schedule](schedule.md)
+- [Quiz](quiz.md)
 <!-- * [Schedule](schedule.md)
 * [Topics](topics.md)
 * [Resources](resources.md)

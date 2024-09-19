@@ -1,20 +1,26 @@
 <!-- markdownlint-disable -->
 # Quizzes
 
-## Quiz 2
+## Quiz 1
 
-- **What:** Quiz 2 will cover all the concepts covered from the beginning of the course until end week 8 (the quiz will include both HTML and CSS). Refer to course schedule for more details.
-- **When:** Week of July 8
-- **Duration:** 8:30 - 11:20am PST + 10 minutes of submission buffer (11:30am)
-- **Where:** The quiz will be available on Blackboard, via the quiz tab (left hand side)
-- **How:** The quiz will be a take-home, *open-book\** quiz. There will NO zoom session during the quiz. 
-*note: refer to [quiz rules](#quiz-rules) to understand what open-book means
+- **What:** Quiz 1 will cover all the concepts covered from the beginning of the course until end week 4. Refer to [course schedule](schedule.md) for more details.
+- **When:** Thursday, October 3
+- **Duration:** 2 Hours 50 mins, during class time
+- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on Blackoard and Cengage platform
+- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO in-person/Zoom session** during the quiz.
+**note: refer to [quiz rules](#quiz-rules) to understand what open-book means
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
 ### Preparation: 
-- The quiz will cover all concepts from the first 8 weeks of the class (until end of week 8)
-- Review the following videos to make sure you understand the submission process and sort out any issues with server connectivity:
-  - [How to connect to CIS Web Server/video instruction](resources.md)
+- The quiz will cover all concepts from the first 4 weeks of the class (until end of week 4)
+- There are practice modules available on Cengage/MindTap that you can use to prepare for the quiz
+
+### How to access the quiz:
+
+- The quiz will be password protected. The password will be available on the quiz page of the course on Blackboard.
+- In order to find the quiz, you will need to log in to Cengage/MindTap via Blackboard (course info page)
+  - There is a folder called "Quizzes" on the Cengage/MindTap platform. The quiz will be available in this folder.
+  - Make note of the time the quiz is available and the time it closes. You will not be able to access the quiz after it closes/when you run out of time.
 
 > [!ATTENTION]
 > Make sure you're in a place with a good computer and steady internet when taking the quiz. If your computer or internet stops working during the quiz, it is up to you to get back online and finish before the time's up. 
@@ -29,58 +35,19 @@
 
 ## Quiz Details:
 - There will be NO Zoom during the quiz. The quiz will be considered as a take-home quiz.
-- I recommend submitting your quiz every hour just to make sure you know how to complete the process and everything is taken care of. Not making a submission on Blackboard will result in a mark of 0.
-- As mentioned before, neither Navneet or I will be answering any questions related to the exam. Do your best with your best interpretation (and note them down in your answers, if needed). 
+- Not making a submission on time will result in a 0 grade for the quiz.
+- As mentioned before, neither Navneet/Aastha or I will be answering any questions related to the exam. Do your best with your best interpretation (and note them down in your answers, if needed). 
 
 ## Quiz Rules
 - You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are fine).
 - Any form of communication with other humans, terrestrial or extraterrestrial is not allowed (Discord, Slack, WhatsApp, Terminal, Signal, iMessage, SMS, MMS, etc…)
 - The test is open-book, open-notes, open-IDE (e.g. VSCode) EXCEPT websites and plugins that help you cheat such as ChatGPT, BingAI, Chegg, Course Hero, Slader and other similar websites that have tutors answering questions you upload 
-> [!TIP]
-> W3Schools, Khan Academy or freeCodeCamp are permissible as long as they are explicitly cited/references in the code using HTML/CSS comments
 - Copying the question text and googling **IS CHEATING**
 - Posting the question text and asking someone to solve it for you **IS CHEATING**
 - Using google to search for concepts is NOT cheating (however using any AI-based search engine i.e. BingAI **IS CHEATING**).
 - If you come across the same or similar question on google, resist the temptation to keep reading, and close your browser tab.
 - Do NOT share quiz questions with anyone: that **IS CHEATING**
 - Overall, do not stress! You will be fine.
-
-## Submission Process
-
-The submission process for the quiz includes 2 parts:
-1. Upload your files/folders to CIS Web Server
-2. Submit your quiz on Blackboard
-
-### General Overview
-- Validation your HTML files, save them as PDF in a folder called Reports
-- Upload your HTML files, reports folder to CIS Web Server in a folder called Q0
-- Create a zip of your HTML files, report folder using the name formatting detailed below
-- Submit the zip file and the link to your Q0 folder on your CIS Web server as comment on Blackboard
-
-### Detailed Instructions
-- Your HTML files must pass validation at https://validator.w3.org/ with zero errors and no more than 1 warning. 
-  - If there are issues with the code, resolve them. 
-  - Save your validation reports as a PDF 
-    - [Click here to get instructions on how to create a PDF from a page](https://www.consumerfinance.gov/consumer-tools/save-as-pdf-instructions/)
-  - Create a new folder called Reports and place both reports in the folder
-  - Name the reports as the following:
-    - `FileName_HTML_Validation.pdf`
-    - Example: `planets_HTML_Validation.pdf` OR `earth_HTML_Validation.pdf`
-- Upload your file to CIS Web Server
-  - [Connect to the CIS Web Server using instructions given in class/course website](resources.md)
-  - Create a folder called Q0
-  - Place both HTML files in the folder
-  - Copy the link to your folder on the CIS Web server
-    - It should look something like this: https://cisweb.ufv.ca/~rajabip/Q0 (instead of rajabip, it will be your student ID: 30123456)
-    - Save the link as you will be submitting it to Blackboard as a comment
-- Create a zip of your files (including your validation reports) and submit on Blackboard before the due date
-  - [How to zip a file on Mac/Windows](https://www.wikihow.com/Make-a-Zip-File)
-  - The name of your zip file should be formatted as the following
-    - `FirstName_LastName_StudentID_Q0.zip`
-    - Example: `Parsa_Rajabi_300123456_Q0.zip`
-
-> [!TIP]
-> Make sure to also upload your Images folder to the CIS Web Server as your images will not be visible in the HTML file if they are not uploaded to the server. This will result in a loss of marks. 
 
 ## Academic Integrity
 
