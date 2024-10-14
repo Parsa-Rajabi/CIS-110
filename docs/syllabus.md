@@ -131,7 +131,7 @@ Make-up assessments (including assignments, exams and quizzes) will not be given
  
 While "life happens," poor planning by you does not count. And definitely do not wait to discuss gray areas. For example, an interview opportunity arises (good!): you should not wait until the day before the assignment is due to let us know that you could not complete the assignment because you had to prepare for the interview. That would be considered poor planning. Good planning would be to alert the Lab Monitor or Instructor that you got the interview and, while you hope to finish the assignment, there is a concern. Then when you don’t finish on time, it’s clear that you planned your time and that will be taken into consideration. These "good planning" situations will be considered individually as per the instructor's discretion.
 
-In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. Refer to accommodations and concessions section below for more details.
+In all cases, exceptional situations are considered on an individual basis, subject to the approval of the instructor and supported by legitimate and verified documentation. 
 
 ### Remarking Policy
 
@@ -193,4 +193,5 @@ If you plan to use a tutor/editor, be aware that any work that you submit must a
 - Your use an editor (paid or unpaid) without permission of the instructor to revise, correct or alter your work
 
 ## First Class Attendance
-As per UFV Policy 62: Students must attend the first day of class and complete the activity as assigned by the instructor in order to keep their seat in the course.  Failure to do this may result in an automatic withdrawal and students on the registered class waitlist who are in attendance will be given your spot. If you are unable to attend the first day of class, please contact the instructor in advance to make alternate arrangements.
+
+As per [UFV Policy 62](https://www.ufv.ca/media/assets/secretariat/policies/Attendance-(62).pdf): Students must attend the first day of class and complete the activity as assigned by the instructor in order to keep their seat in the course.  Failure to do this may result in an automatic withdrawal and students on the registered class waitlist who are in attendance will be given your spot. If you are unable to attend the first day of class, please contact the instructor in advance to make alternate arrangements.
