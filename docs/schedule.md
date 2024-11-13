@@ -25,9 +25,10 @@ All course slides are password protected. Visit course info page on Blackboard (
 |    8    |  Oct 24  | Asynchronous + Drop-in Help  | MS Powerpoint Chapters 4-7 |  [Slides](http://tiny.cc/110-W8)   |  [Videos](videos.md#powerpoint---chapters-4-7)   | Powerpoint 1 (Oct 22) | Powerpoint 4-7 (Oct 24) |
 |    9    |  Oct 31  |             Quiz             |  Chapter Quiz: Powerpoint  |    [Quiz Details](quiz.md)                                |                                                  | Powerpoint 2 (Oct 29) |            -            |
 |   10    |  Nov 7   | Asynchronous + Drop-in Help  |     Excel Chapters 1-6     |  [Slides](http://tiny.cc/110-W10)  |     [Videos](videos.md#excel---chapters-1-6)     |                       |    Excel 1-6 (Nov 7)    |
-|   11    |  Nov 14  |          In-person           | Guest Lecture (tentative)  |                                    |                                                  |                       |                         |
+|   11    |  Nov 14  |          Cancelled           | Work on Final Project (tentative)  |                                    |                                                  |                       |                         |
 |   12    |  Nov 21  | Asynchronous + Drop-in Help  |    Excel Chapters 6-11     |  [Slides](http://tiny.cc/110-W12)  |    [Videos](videos.md#excel---chapters-6-11)     |   Excel 1 (Nov 19)    |   Excel 7-11 (Nov 21)   |
 |   13    |  Nov 28  |             Quiz             |    Chapter Quiz: Excel     |       [Quiz Details](quiz.md)                             |                                                  |   Excel 2 (Nov 26)    |                         |
+| - | Dec 6 | Project |Final Project Due | [Project Details](final-project.md) | | | | 
 
 - **Asynchronous**: Online learning, no in-person/Zoom class.
 - **In-person**: In-person class, no Zoom class.
