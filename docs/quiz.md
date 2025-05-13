@@ -4,42 +4,42 @@
 ## Quiz 3
 
 - **What:** Quiz 3 will cover all the concepts covered on Weeks 10 and 12 (Excel). Refer to [course schedule](schedule.md) for more details.
-- **When:** Thursday, November 28
+- **When:** Wednesday, July 30
 - **Duration:** 2 Hours 50 mins, during class time
-- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on Blackoard and Cengage platform
+- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
+- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
 - **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO in-person/Zoom session** during the quiz.
 **note: refer to [quiz rules](#quiz-rules) to understand what open-book means
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
-**All rules and considerations from Quiz #1 and #2 will apply to Quiz #3.**
+**All rules and considerations from Quiz #1 and #2 will apply to Quiz #3.**=
 
+<!-- ## Quiz 2
 
-## Quiz 2
-
-- **What:** Quiz 2 will cover all the concepts covered between Week 7 and 8 (Powerpoint). Refer to [course schedule](schedule.md) for more details.
-- **When:** Thursday, October 31
+- **What:** Quiz 2 will cover all the concepts covered between Week 6 and 8 (Powerpoint). Refer to [course schedule](home.md) for more details.
+- **When:** Wednesday, July 9
 - **Duration:** 2 Hours 50 mins, during class time
-- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on Blackoard and Cengage platform
-- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO in-person/Zoom session** during the quiz.
+- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
+- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO Zoom session** during the quiz.
 **note: refer to [quiz rules](#quiz-rules) to understand what open-book means
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
-**All rules and considerations from Quiz #1 will apply to Quiz #2.**
+**All rules and considerations from Quiz #1 will apply to Quiz #2.**  -->
 
 ## Quiz 1
 
-- **What:** Quiz 1 will cover all the concepts covered from the beginning of the course until end week 4. Refer to [course schedule](schedule.md) for more details.
-- **When:** Thursday, October 3
+- **What:** Quiz 1 will cover all the concepts covered from the beginning of the course until end week 4. Refer to [course schedule](home.md) for more details.
+- **When:** Wednesday, June 11
 - **Duration:** 2 Hours 50 mins, during class time
-- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on Blackoard and Cengage platform
-- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO in-person/Zoom session** during the quiz.
+- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
+- **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO Zoom session** during the quiz.
 **note: refer to [quiz rules](#quiz-rules) to understand what open-book means
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
 ### How to access the quiz:
 
-- The quiz will be password protected. The password will be available on the quiz page of the course on Blackboard.
-- In order to find the quiz, you will need to log in to Cengage/MindTap via Blackboard (course info page)
+- The quiz will be password protected. The password will be available on the quiz page of the course on D2L Brightspace.
+- In order to find the quiz, you will need to log in to Cengage/MindTap via D2L Brightspace (course info page)
   - There is a folder called "Quizzes" on the Cengage/MindTap platform. The quiz will be available in this folder.
   - Make note of the time the quiz is available and the time it closes. You will not be able to access the quiz after it closes/when you run out of time.
 
@@ -57,7 +57,7 @@
 ## Quiz Details:
 - There will be NO Zoom during the quiz. The quiz will be considered as a take-home quiz.
 - Not making a submission on time will result in a 0 grade for the quiz.
-- As mentioned before, neither Navneet/Aastha or I will be answering any questions related to the exam. Do your best with your best interpretation (and note them down in your answers, if needed). 
+- As mentioned before, neither Aastha or I will be answering any questions related to the exam. Do your best with your best interpretation (and note them down in your answers, if needed). 
 
 ## Quiz Rules
 - You must complete the test BY YOURSELF (no friends, no tutors, no classmates, no humans - cats and dogs in the room are fine).
@@ -78,36 +78,39 @@ Academic Integrity is important to me and I know it is to most students. Cheatin
 
 This refers to passing off the work of another as your own. Make sure to cite all your sources if you incorporate the words or ideas of another person. This includes sources from books, journals, the internet, emails, live presentations (e.g. speeches) and even relevant conversations with other people. You can avoid plagiarism by appropriate citation and referencing in your papers, projects and presentations.
 
+### Unauthorized Sharing of Computers 
+
+Students are also prohibited from sharing computers or using another student’s computer to complete quizzes. This includes sharing code, files, or any other content that is to be submitted for grading. Students who have difficulty with their computer (e.g. hardware or software failure) should contact the instructor immediately for assistance. 
+
 ### Inappropriate use of technology in coursework
 
-The use of technology to produce content for your assignments/quizzes that is not specifically listed in the syllabus as permissible is strictly prohibited. All submissions for grading must be your own work. This specifically includes a prohibition on artificial intelligence writing software such as ChatGPT and translation software as it will interfere with the learning objectives outlined for this course.
+The use of technology to produce content for your assignments that is not specifically listed in the syllabus as permissible is strictly prohibited. **All submissions for grading must be your own work.** This specifically includes a prohibition on artificial intelligence writing software such as ChatGPT and translation software as it will interfere with the learning objectives outlined for this course.
 
-### Collusion/ Unauthorized Collaboration
+### Collusion / Unauthorized Collaboration
 
 You are expected to complete all assignments for this course on your own. When assigned individual work, it is unfair to collaborate and gain an unfair advantage over your classmates who complete their work on their own. Collusion includes sharing homework, quiz or test questions and answers with other students. Examples of collusion:
 
 - Working on answers with a friend for a homework assignment or during an open book exam
-- Using “tutoring websites” (e.g. Chegg.com, CourseHero) to find answers to assignment/ exam questions
+- Using “tutoring websites” (e.g. Chegg, CourseHero) to find answers to assignment/ exam questions
 - Assisting others to cheat by answering questions that are posted to a FB/ WhatsApp group
-- Falsifying / fabricating information
+- Falsifying/ fabricating information
 
-Do not misrepresent yourself or your work. The following are examples of prohibited behavior:
+**Do not misrepresent yourself or your work.** The following are examples of prohibited behavior:
 
 - Making up sources or facts
-- Misrepresenting your identity by asking someone else to complete any portion of a course (i.e. make comment on a discussion board, i-clicker quiz, exam)
+- Misrepresenting your identity by asking someone else to complete any portion of a course (i.e. make comment on a discussion board, quiz, exam)
 - Falsifying or altering any documentation required by the University, including (but not limited to) doctors note’s in order to gain an academic advantage
- 
+
 ### Unauthorized use of note-sharing websites
 
-You may come across websites that claim to help students by providing answers to test questions and encourage students to upload your instructor’s copyrighted material (e.g. lecture slides, exam questions, etc.) Sharing exam/assignment questions is strictly prohibited as this material is the intellectual property of the instructor and should not be shared in any format. Furthermore, beware of uploading your own completed assignments/essays as you could be assisting other students to cheat using your material. Assisting others to cheat is strictly prohibited in the UFV student academic integrity policy.
+You may come across websites that claim to help students by providing answers to test questions and encourage students to upload your instructor’s copyrighted material (e.g. lecture slides, exam questions, etc.) Sharing exam/assignment questions is strictly prohibited as this material is the intellectual property of the instructor and should not be shared in any format. Furthermore, beware of uploading your own completed assignments as you could be assisting other students to cheat using your material. Assisting others to cheat is strictly prohibited in the UFV student academic integrity policy.
 
 Note sharing sites expect their users to comply with the Honour Code of their organization. Their own policy mandates that they cooperate with an investigation of academic dishonesty. The UFV Academic Integrity Office routinely monitors these sites for evidence of cheating and will initiate discipline proceedings against students who violate the UFV Student Academic Integrity policy.
 
-### Unauthorized use of tutors/ editors
+### Unauthorized use of tutors / editors
 
 If you plan to use a tutor/editor, be aware that any work that you submit must always be your own. An ethical tutor will always focus on explaining concepts so that you can become an independent learner. You are violating the student academic integrity policy if:
 
 - A private tutoring company coaches you on how to complete an assignment
-- You buy / sell/  swap assignment questions and answers on social media platforms like WeChat, Whatsapp, Facebook, etc.
+- You buy / sell / swap assignment questions and answers on social media platforms like WeChat, Whatsapp, Facebook, etc.
 - Your use an editor (paid or unpaid) without permission of the instructor to revise, correct or alter your work
-

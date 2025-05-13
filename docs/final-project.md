@@ -33,7 +33,7 @@ Each part will be graded separately, however, the final project grade will be a 
 
 ## Project Submission
 
-The project will be submitted via Cengage/MindTap. You can find the project via both Cengage and Blackboard. 
+The project will be submitted via Cengage/MindTap. You can find the project via both Cengage and D2L Brightspace. 
 
 No other modes of submission will be accepted.
 
