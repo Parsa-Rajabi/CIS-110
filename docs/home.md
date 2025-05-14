@@ -12,7 +12,7 @@ All course slides are password protected. Visit course info page on D2L Brightsp
 
 | **Wk#** | **Date** |        **Modality**         |         **Topic**          | **Course Notes** |                  **Videos**                   |    **Assignments**     |     **Module Test**      |
 | :-----: | :------: | :-------------------------: | :------------------------: | :--------------: | :-------------------------------------------: | :--------------------: | :----------------------: |
-|    1    |  May 14  |        Live `[Zoom]`        |  Syllabus & Introductions  |  [Class Slides]  |                                               |                        |                          |
+|    1    |  May 14  |        Live `[Zoom]`        |  Syllabus & Introductions  |  [Class Slides](http://tiny.cc/110-SU25-W1)  |                                               |                        |                          |
 |    2    |  May 21  | Asynchronous [Drop-in Help] |    MS Word Chapters 1-4    |     [Slides]     |    [Videos](videos.md#word---chapters-1-3)    |                        |                          |
 |    3    |  May 28  |        Live `[Zoom]`        |    MS Word Chapters 4-7    |     [Slides]     |    [Videos](videos.md#word---chapters-4-7)    |                        |    Word 1-5  (May 26)    |
 |    4    |  June 4  | Asynchronous [Drop-in Help] |   MS Word Chapters 8-11    |     [Slides]     |   [Videos](videos.md#word---chapters-8-11)    |    Word 1 (June 5)     |                          |
