@@ -38,7 +38,7 @@ All course slides are password protected. Visit course info page on D2L Brightsp
 Throughout the semester (especially during our asynchronous lectures), our dedicate lab monitor, Aastha will be available to provide real-time assistance with any questions or difficulties you might have regarding the course material.
 
 Here’s how the drop-in sessions will work:
-- Book your session via the scheduling tool, calendly: [Aastha Drop-in Booking Tool]()
+- Book your session via the scheduling tool, calendly: [Aastha Drop-in Booking Tool](https://calendly.com/aastha-anand-student/aastha-s-office-hours)
 - Join the Zoom session (link available via the same booking page) during your specified appointment 
 
 ### Cancellation Policy
