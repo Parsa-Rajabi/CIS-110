@@ -6,7 +6,7 @@
 
 ---
 **Summer 2025**
-<!-- TODO Update CRN -->
+
 - **Section CIS 110 ON2 [CRN 50031]**
   - Wednesdays, 8:30-11:20am PST, [Hybrid via Zoom](home.md)
 
@@ -74,7 +74,7 @@ The [UFV calendar description](https://www.ufv.ca/calendar/current/CourseDescrip
 > Pre- or corequisite(s): None.
 
 ## Learning Outcomes
-<!-- TODO: double check LOs -->
+
 The Learning outcomes for this course are:
 
 1. Demonstrate the sophisticated skills in word processing, spreadsheet and database application, and presentation creation.
@@ -90,11 +90,12 @@ The Learning outcomes for this course are:
 
 The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Edition
 
-<!-- TODO: Update textbook link -->
 - [Link to purchase textbook code from UFV bookstore](https://ufv.bookware3000.ca/CourseSearch/?course[]=ABBOTS,SUMM25,CIS,CIS110ON2,&)
 
+- Follow [these instructions](textbook-setup.md) to set up your Cengage MindTap account and access the course materials.
+
 ![](images/CIS110-textbook.png)
-<!-- TODO: Update textbook screenshot -->
+
 
 ## Course Evaluation
 
@@ -104,7 +105,6 @@ The Shelly Cashman Series Collection, Microsoft Office 365 & Office 2019, 1st Ed
 |     Assignments     |    25%     |
 |       Quizzes       |    30%     |
 |   Final Component   |    30%     |
-<!-- TODO: Double check final component policy -->
 
 ### Letter Grade Conversion
 ![](images/grade_letters.png)
