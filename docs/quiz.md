@@ -1,18 +1,17 @@
 <!-- markdownlint-disable -->
 # Quizzes
 
-## Quiz 3
+<!-- ## Quiz 3
 
 - **What:** Quiz 3 will cover all the concepts covered on Weeks 10 and 12 (Excel). Refer to [course schedule](schedule.md) for more details.
 - **When:** Wednesday, July 30
 - **Duration:** 2 Hours 50 mins, during class time
 - **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
-- **Where** The quiz will be available on Cengage/MindTap, via the quiz tab on D2L Brightspace and Cengage platform
 - **How:** The quiz will be a take-home, *open-book\** quiz. There will be **NO in-person/Zoom session** during the quiz.
 **note: refer to [quiz rules](#quiz-rules) to understand what open-book means
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
-**All rules and considerations from Quiz #1 and #2 will apply to Quiz #3.**=
+**All rules and considerations from Quiz #1 and #2 will apply to Quiz #3.**= -->
 
 <!-- ## Quiz 2
 
