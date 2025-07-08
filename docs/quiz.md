@@ -13,7 +13,7 @@
 
 **All rules and considerations from Quiz #1 and #2 will apply to Quiz #3.**= -->
 
-<!-- ## Quiz 2
+## Quiz 2
 
 - **What:** Quiz 2 will cover all the concepts covered between Week 6 and 8 (Powerpoint). Refer to [course schedule](home.md) for more details.
 - **When:** Wednesday, July 9
@@ -23,7 +23,7 @@
 **note: refer to [quiz rules](#quiz-rules) to understand what open-book means
 - Generally, your instructor will not be able to answer questions during the quiz - do your best with your best interpretation.
 
-**All rules and considerations from Quiz #1 will apply to Quiz #2.**  -->
+**All rules and considerations from Quiz #1 will apply to Quiz #2.** 
 
 ## Quiz 1
 
